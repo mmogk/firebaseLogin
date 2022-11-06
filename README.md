@@ -11,5 +11,8 @@ yarn dev
 ```
 
 ## Tailwind
+### Step 1
 yarn add -D tailwindcss postcss autoprefixer 
+
+### Step 2
 npx tailwindcss init
