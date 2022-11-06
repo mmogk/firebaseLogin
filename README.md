@@ -15,4 +15,4 @@ yarn dev
 yarn add -D tailwindcss postcss autoprefixer 
 
 ### Step 2
-npx tailwindcss init
+npx tailwindcss init -p
